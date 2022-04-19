@@ -7,9 +7,9 @@
 
 👤 **Abdellah**
 
-- GitHub: [@githubhandle](https://github.com/mr-abdellah)
-- Twitter: [@twitterhandle](https://twitter.com/belkaiduus)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/belkaidus)
+- GitHub: [@mr-abdellah](https://github.com/mr-abdellah)
+- Twitter: [@belkaiduus](https://twitter.com/belkaiduus)
+- LinkedIn: [belkaidus](https://linkedin.com/in/belkaidus)
 
 ## Show your support
 
